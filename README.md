@@ -11,3 +11,6 @@ http://shouce.jb51.net/qt-beginning/5.html
 
 python剪切图片;
 https://www.jianshu.com/p/481d538a1076
+
+
+开发app基础：https://juejin.im/post/6844904023426875406
