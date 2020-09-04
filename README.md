@@ -17,3 +17,6 @@ https://www.jianshu.com/p/481d538a1076
 
 
 Qt对话框之一：标准对话框:https://www.cnblogs.com/linuxAndMcu/p/11049999.html
+
+
+macsocket工具：https://juejin.im/post/6844903559822065672
