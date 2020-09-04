@@ -30,4 +30,4 @@ kafka学习之路（二）——提高：https://blog.csdn.net/tanggao1314/artic
 kafka搭建：https://www.cnblogs.com/luotianshuai/p/5206662.html
 
 
-sockit工具windows：Socket调试工具推荐
+sockit工具windows：https://www.jianshu.com/p/3e16e5dab8a6
