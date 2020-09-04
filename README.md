@@ -20,3 +20,6 @@ Qt对话框之一：标准对话框:https://www.cnblogs.com/linuxAndMcu/p/110499
 
 
 macsocket工具：https://juejin.im/post/6844903559822065672
+
+
+kafka学习之路（一）——入门：https://blog.csdn.net/tanggao1314/article/details/51927081?ops_request_misc=&request_id=&biz_id=&utm_source=distribute.pc_search_result.none-task
